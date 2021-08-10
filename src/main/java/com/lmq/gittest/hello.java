@@ -5,5 +5,6 @@ public class hello {
         System.out.println("third commit");
         System.out.println("hot fix1");
         System.out.println("master test");
+        System.out.println("hot fix test");
     }
 }
